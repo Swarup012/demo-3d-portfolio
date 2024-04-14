@@ -1,0 +1,11 @@
+Model Information:
+* title:	Silueta drawing
+* source:	https://sketchfab.com/3d-models/silueta-drawing-0aafa0c260634860beb38c9dd4adb7fc
+* author:	vmmaniac (https://sketchfab.com/vmmaniac)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Silueta drawing" (https://sketchfab.com/3d-models/silueta-drawing-0aafa0c260634860beb38c9dd4adb7fc) by vmmaniac (https://sketchfab.com/vmmaniac) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
